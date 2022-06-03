@@ -1,0 +1,82 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Salvo" type="js.build_tools.npm" singleton="false">
+    <package-json value="$PROJECT_DIR$/../../trezor-suite-22.5.2/trezor-suite-22.5.2/package.json" />
+    <command value="run" />
+    <scripts>
+      <script value="suite:dev:ios" />
+    </scripts>
+    <node-interpreter value="F:/Coin/masternode.conf" />
+    <package-manager value="C:\Program Files\nodejs\node_modules\corepack" />
+    <envs>
+      <env name="ALLUSERSPROFILE" value="C:\ProgramData" />
+      <env name="APPDATA" value="C:\Users\Rene - Salvo Ent\AppData\Roaming" />
+      <env name="CHROME_CRASHPAD_PIPE_NAME" value="\\.\pipe\LOCAL\crashpad_4060_KUUBJFSSUVANDKUI" />
+      <env name="CHROME_RESTART" value="Microsoft Edge|Microsoft Edge has stopped working. Restart it?|LEFT_TO_RIGHT" />
+      <env name="COMPUTERNAME" value="SALVOTOSHI" />
+      <env name="CUDA_DEVICE_ORDER" value="PCI_BUS_ID" />
+      <env name="ChocolateyInstall" value="C:\ProgramData\chocolatey" />
+      <env name="ChocolateyLastPathUpdate" value="132867095799549140" />
+      <env name="ComSpec" value="C:\WINDOWS\system32\cmd.exe" />
+      <env name="CommonProgramFiles" value="C:\Program Files\Common Files" />
+      <env name="CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files" />
+      <env name="CommonProgramW6432" value="C:\Program Files\Common Files" />
+      <env name="DriverData" value="C:\Windows\System32\Drivers\DriverData" />
+      <env name="EDGE_BROWSER_PID" value="4060" />
+      <env name="EDGE_METRICS_CLIENT_ID_HASH" value="-7518202856835749549" />
+      <env name="EDGE_METRICS_SESSION_ID" value="1809" />
+      <env name="EDGE_USER_DATA_DIR" value="C:\Users\Rene - Salvo Ent\AppData\Local\Microsoft\Edge\User Data" />
+      <env name="EDGE_VARIATIONS_SEED_ETAG" value="&quot;vavYNZNEL8HzSwPg2ueNVuWaR0oZ2enI5UawDy7tAm0\=&quot;" />
+      <env name="ETHEREUM_SOCKET" value="\\.\pipe\geth.ipc" />
+      <env name="FPS_BROWSER_APP_PROFILE_STRING" value="Internet Explorer" />
+      <env name="FPS_BROWSER_USER_PROFILE_STRING" value="Default" />
+      <env name="GOPATH" value="C:\Users\Rene - Salvo Ent\go" />
+      <env name="GPU_FORCE_64BIT_PTR" value="1" />
+      <env name="GPU_MAX_ALLOC_PERCENT" value="100" />
+      <env name="GPU_MAX_HEAP_SIZE" value="100" />
+      <env name="GPU_SINGLE_ALLOC_PERCENT" value="100" />
+      <env name="GPU_USE_SYNC_OBJECTS" value="1" />
+      <env name="GoLand" value="C:\Program Files\JetBrains\GoLand 2022.1.1\bin;" />
+      <env name="HOMEDRIVE" value="$PROJECT_DIR$/../../../../.." />
+      <env name="HOMEPATH" value="\Users\Rene - Salvo Ent" />
+      <env name="IDEA_INITIAL_DIRECTORY" value="C:\WINDOWS\system32" />
+      <env name="IntelliJ IDEA" value="C:\Program Files\JetBrains\IntelliJ IDEA 2022.1.1\bin;" />
+      <env name="LOCALAPPDATA" value="C:\Users\Rene - Salvo Ent\AppData\Local" />
+      <env name="LOCAL_GIT_DIRECTORY" value="C:\Users\Rene - Salvo Ent\AppData\Local\GitHubDesktop\app-3.0.0\resources\app\git" />
+      <env name="LOGONSERVER" value="\\SALVOTOSHI" />
+      <env name="NUMBER_OF_PROCESSORS" value="16" />
+      <env name="ORIGINAL_XDG_CURRENT_DESKTOP" value="undefined" />
+      <env name="OS" value="Windows_NT" />
+      <env name="OculusBase" value="C:\Program Files\Oculus;OneDrive=C:\Users\Rene - Salvo Ent\OneDrive" />
+      <env name="OneDriveConsumer" value="C:\Users\Rene - Salvo Ent\OneDrive" />
+      <env name="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW" />
+      <env name="POWERSHELL_DISTRIBUTION_CHANNEL" value="MSI:Windows 10 Pro" />
+      <env name="PROCESSOR_ARCHITECTURE" value="AMD64" />
+      <env name="PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 167 Stepping 1, GenuineIntel" />
+      <env name="PROCESSOR_LEVEL" value="6" />
+      <env name="PROCESSOR_REVISION" value="a701" />
+      <env name="PSModulePath" value="C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules" />
+      <env name="PUBLIC" value="C:\Users\Public" />
+      <env name="Path" value="C:\Program Files (x86)\Microsoft\Edge\Application;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\Oculus\Support\oculus-runtime;C:\Python310\Scripts\;C:\Python310\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\ProgramData\chocolatey\bin;C:\Program Files\dotnet\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files (x86)\dotnet\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Gpg4win\..\GnuPG\bin;D:\Geth\bin;C:\Program Files\PowerShell\7\;C:\Program Files\MATLAB\R2022a\bin;C:\Users\Rene - Salvo Ent\.cargo\bin;C:\Users\Rene - Salvo Ent\AppData\Local\ActiveState\StateTool\release\bin;C:\Users\Rene - Salvo Ent\AppData\Local\ActiveState\StateTool\release;C:\Users\Rene - Salvo Ent\AppData\Local\activestate\cache\bin;C:\Users\Rene - Salvo Ent\AppData\Local\ActiveState\StateTool\release;C:\Users\Rene - Salvo Ent\AppData\Local\Microsoft\WindowsApps;C:\Users\Rene - Salvo Ent\AppData\Local\GitHubDesktop\bin;C:\Users\Rene - Salvo Ent\.dotnet\tools;C:\Program Files\Multipass\bin;C:\Users\Rene - Salvo Ent\AppData\Roaming\npm;F:\Coin\jet\WebStorm 2021.3.2\bin;C:\Users\Rene - Salvo Ent\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2022.1.1\bin;C:\Program Files\JetBrains\GoLand 2022.1.1\bin;C:\Users\Rene - Salvo Ent\go\bin;C:\Users\Rene - Salvo Ent\AppData\Local\atom\bin" />
+      <env name="ProgramData" value="C:\ProgramData" />
+      <env name="ProgramFiles" value="C:\Program Files" />
+      <env name="ProgramFiles(x86)" value="C:\Program Files (x86)" />
+      <env name="ProgramW6432" value="C:\Program Files" />
+      <env name="SESSIONNAME" value="Console" />
+      <env name="SystemDrive" value="$PROJECT_DIR$/../../../../.." />
+      <env name="SystemRoot" value="C:\WINDOWS" />
+      <env name="TEMP" value="C:\Users\RENE-S~1\AppData\Local\Temp" />
+      <env name="TMP" value="C:\Users\RENE-S~1\AppData\Local\Temp" />
+      <env name="USERDOMAIN" value="SALVOTOSHI" />
+      <env name="USERDOMAIN_ROAMINGPROFILE" value="SALVOTOSHI" />
+      <env name="USERNAME" value="Rene - Salvo Ent" />
+      <env name="USERPROFILE" value="C:\Users\Rene - Salvo Ent" />
+      <env name="VBOX_MSI_INSTALL_PATH" value="C:\Program Files\Oracle\VirtualBox;WebStorm=F:\Coin\jet\WebStorm 2021.3.2\bin;" />
+      <env name="ZES_ENABLE_SYSMAN" value="1" />
+      <env name="asl.log" value="Destination\=file" />
+      <env name="windir" value="C:\WINDOWS" />
+    </envs>
+    <method v="2">
+      <option name="TypeScript.Before.Run" enabled="true" FAIL_ON_ERROR="true" CONFIG_PATH="F:\Coin\.config\configstore\update-notifier-npm.json" />
+    </method>
+  </configuration>
+</component>
